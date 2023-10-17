@@ -1,5 +1,10 @@
 # Wordle
-Wordle a game in JAVA
+Wordle a word guessing game in JAVA!
+<br>
+<br>
+![image](https://github.com/yashgv/Wordle/assets/130405230/b3c38e58-5b7e-4c68-8db0-47b79243c861)
+
+
 # How to play
 ![image](https://github.com/yashgv/Wordle/assets/130405230/056514f9-0d5d-405c-b4f1-f950bb1138ac)
 
